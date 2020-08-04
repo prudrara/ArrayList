@@ -81,4 +81,3 @@ public class StockItem implements Comparable<StockItem> {
         return this.name + " : price " + this.price;
     }
 }
-
